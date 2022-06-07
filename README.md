@@ -1,2 +1,3 @@
-# documentation
+# Documentation
+
 Random documentation
